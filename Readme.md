@@ -1,4 +1,4 @@
-# stitch
+# Stitch.
 
 Stitch shell scripts via `source` directives into a single combined script.
 
