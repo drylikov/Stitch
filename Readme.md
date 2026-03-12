@@ -18,4 +18,3 @@ $ go get github.com/drylikov/stitch/cmd/stitch
 func File(file string) (out string, err error)
 ```
 File reads `file` and stitches on `source <file>` directives.
-
